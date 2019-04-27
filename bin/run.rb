@@ -1,6 +1,7 @@
 require_relative '../config/environment.rb'
-Hashie
-Sinatra
-Octokit
 Pry
+Sinatra
+Hashie
+Octokit
 awesome_print
+rspec
