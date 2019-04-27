@@ -1,5 +1,5 @@
 
-require '../config/environment.rb'
+require_relative '../config/environment.rb'
 Hashie
 Sinatra
 Octokit
