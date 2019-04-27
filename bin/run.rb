@@ -2,6 +2,6 @@ Hashie
 Sinatra
 Octokit
 Pry
-AwesomePrint
+awesome_print
 
 require_relative '..config/environment.rb'
